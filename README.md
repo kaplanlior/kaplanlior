@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 | 2022 | All Day DevOps | :satellite: | Software Supply Chain aspects in Infrastructure as Code, and how to secure it | 
 | 2022 | All Day DevOps | :satellite: | Avoiding IaC misconfiguration (on mutiple platforms) |
 | 2022 | Open Source Summit Europe | :ireland: | Software Supply Chain Aspects in Infrastructure as Code, and How to Secure it |
+| 2022 | FOSS4G | :it: |  Municipal surveys with QGIS & Input |
 | 2022 | Open Source GIS | :israel: | GIS in the cloud with Open Source |
 | 2022 | Black Hat Asia | :singapore: | ChainAlert: Alert Developers and Open Source Maintainers of Potential Supply Chain Attacks and Suspicious Package Release |
 | 2021 | Open Source GIS | :israel: | Managing ad syncing spatail data |
