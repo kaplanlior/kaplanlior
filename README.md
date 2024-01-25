@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 | 2022 | FOSS4G | :it: |  Municipal surveys with QGIS & Input |
 | 2022 | Open Source GIS | :israel: | GIS in the cloud with Open Source |
 | 2022 | Black Hat Asia | :singapore: | ChainAlert: Alert Developers and Open Source Maintainers of Potential Supply Chain Attacks and Suspicious Package Release |
-| 2021 | Open Source GIS | :israel: | Managing ad syncing spatail data |
+| 2021 | Open Source GIS | :israel: | Managing ad syncing spatial data |
 | 2021 | GeekTime Code | :israel: | DevOps and IaC - from zero to hero with KICS Open Source |
 | 2020 | GeekTime Code | :israel: | Open Source by The Ministry of Health |
 | 2020 | Inter ministry GIS committee | :israel: | Israeli Open Data |
