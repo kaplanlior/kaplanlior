@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | 2022 | Black Hat Europe | :england: | c{api}tal - Learn OWASP API Security Top 10 by playing with vulnerable by design application |
 | 2022 | Open Source Summit Japan | :jp: | Software Supply Chain Aspects in Infrastructure as Code |
 | 2022 | All Day DevOps | :satellite: | Software Supply Chain aspects in Infrastructure as Code, and how to secure it | 
-| 2022 | All Day DevOps | :satellite: | Avoiding IaC misconfiguration (on mutiple platforms) |
+| 2022 | All Day DevOps | :satellite: | Avoiding IaC misconfiguration (on multiple platforms) |
 | 2022 | Open Source Summit Europe | :ireland: | Software Supply Chain Aspects in Infrastructure as Code, and How to Secure it |
 | 2022 | FOSS4G | :it: |  Municipal surveys with QGIS & Input |
 | 2022 | Open Source GIS | :israel: | GIS in the cloud with Open Source |
