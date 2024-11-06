@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 | Year | Conference / Event | Where | Title |
 | ---- | -------------------| ----- | ----- |
-| 2024 | DevOpsDays TLV | :israel: |  Israeli companies who create Open Source |
 | 2023 | Open Source GIS | :israel: | no-code maps and story maps |
 | 2022 | Black Hat Europe | :england: | c{api}tal - Learn OWASP API Security Top 10 by playing with vulnerable by design application |
 | 2022 | Open Source Summit Japan | :jp: | Software Supply Chain Aspects in Infrastructure as Code |
