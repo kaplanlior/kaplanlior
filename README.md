@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 | Year | Conference / Event | Where | Title |
 | ---- | -------------------| ----- | ----- |
+| 2025 | Open Source GIS | :israel: | GIS tools for the non spacial user |
+| 2025 | Open Source GIS | :israel: | GeoAI - The Good, the Bad and the Ugly |
+| 2025 | Open Source GIS | :israel: | Quality checks for special data |
 | 2023 | Open Source GIS | :israel: | no-code maps and story maps |
 | 2022 | Black Hat Europe | :england: | c{api}tal - Learn OWASP API Security Top 10 by playing with vulnerable by design application |
 | 2022 | Open Source Summit Japan | :jp: | Software Supply Chain Aspects in Infrastructure as Code |
