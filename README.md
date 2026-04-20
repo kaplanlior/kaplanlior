@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 | Year | Conference / Event | Where | Title |
 | ---- | -------------------| ----- | ----- |
+| 2026 | ContainerDays Hamburg | :de: | The Hidden Cost of Distroless: When Smaller Images Challenge CVE Detection |
+| 2026 | OWASP Global AppSec EU | :austria: | Why Isn't the Fix in My Container? Tracking CVE Propagation Across 10,000 Projects |
 | 2026 | KubeCon + CloudNativeCon Europe | :netherlands: | Why Isn't the Fix in My Container? Tracking CVE Propagation Across 10,000 Projects |
 | 2026 | ContainerDays London | :england: | Why Isn't the Fix in My Container? Tracking CVE Propagation Across 10,000 Projects |
 | 2025 | Open Source GIS | :israel: | GIS tools for the non spacial user |
